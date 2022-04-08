@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Harsha 👋</h1>
 
-<p align="center">SDE at TexAu — Automation platform for Sales and Marketing teams. I love working working on new thinhs, learn cool technologies and build side projects. :) </p>
+<p align="center">SDE at TexAu — Automation platform for Sales and Marketing teams. I love working working on new things, learn cool technologies and build side projects. :) </p>
 
 ---
 
